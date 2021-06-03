@@ -2,12 +2,14 @@
   background-color: white;
   padding: 30px;
   height: 40vh;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
 }
 h3 {
-  color: teal;
+  color: #89c8c8;
 }
 h4 {
-  color: yellowgreen;
+  color: #c4d764;
 }
 p {
   color: grey;
