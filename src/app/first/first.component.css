@@ -1,0 +1,14 @@
+.content-first {
+  background-color: white;
+  padding: 30px;
+  height: 40vh;
+}
+h3 {
+  color: teal;
+}
+h4 {
+  color: yellowgreen;
+}
+p {
+  color: grey;
+}

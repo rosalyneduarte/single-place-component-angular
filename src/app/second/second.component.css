@@ -1,23 +1,20 @@
-*{
-  margin:0;
-  padding: 0;
-  box-sizing: border-box;
-
-
+.content-second {
+  background-color: teal;
+  height: 46vh;
+  padding: 30px;
+  color: white;
 }
-.container-geral{
 
-  width: 110vh;
-  height: 86vh;
-  margin-top: 30px;
-  margin-left: 350px;
+
+button{
+  background-color: greenyellow;
   box-shadow:  2px 12px 18px -1px rgba(156,143,143,0.56);
   -webkit-box-shadow: 2px 12px 18px -1px rgba(156,143,143,0.56);
   -moz-box-shadow: 2px 12px 18px -1px rgba(156,143,143,0.56);
-
 }
-.row{
-  display: flex;
+span{
+  font-size: small;
+  color: rgb(13, 221, 221);
 }
 
 
